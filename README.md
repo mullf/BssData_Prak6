@@ -1,4 +1,4 @@
-# praktikum-basis-data-8
+# Praktikum 6 Basis Data
 ```
 1. Tampilkan data karyawan yang bekerja pada departemen yang sama dengan karyawan yang bernama Dika
 2. Tampilkan data karyawan yang gajinya lebih besar dari rata-rata gaji semua  karyawan. urutkan menurun berdasarkan besaran gaji
